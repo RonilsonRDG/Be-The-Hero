@@ -26,10 +26,10 @@ The project was developed in the 11th Omnistack Week given by Rocketseat in the 
 
 <View>
 <text> Login Screen - Web page for registering NGOs and cases </text>
-<img src = "https://github.com/RonilsonRDG/Be-The-Hero/imagens/master/Images/tela_de_login.jpg" width = "1024" height = "473">
+<img src = "https://github.com/RonilsonRDG/Be-The-Hero/blob/master/Imagens/tela_de_login.jpg" width = "1024" height = "473">
 <br> <br>
 <text> NGOs Registration Screen - Web page for registration of NGOs and cases </text>
-<img src = "https://github.com/RonilsonRDG/Be-The-Hero/blob/master/imagens/tela_cadastro_ongs.jpg" width = "1024" height = "473">
+<img src = "https://github.com/RonilsonRDG/Be-The-Hero/blob/master/Imagens/tela_cadastro_ongs.jpg" width = "1024" height = "473">
 <br> <br>
 <text> NGOs Profile Screen - Web page to register NGOs and cases </text>
 <img src = "https://github.com/RonilsonRDG/Be-The-Hero/blob/master/imagens/Profile_Ong2.jpg" width = "1024" height = "473">
