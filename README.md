@@ -37,7 +37,7 @@ React Native
 <img src="https://github.com/RonilsonRDG/Be-The-Hero/blob/master/Imagens/tela_cadastro_ongs.jpg" width="1024" height="473">
 <br><br>
 <text>Tela de Perfil de ONGS - Página Web para cadastro de ONG's e casos</text>
-<img src="https://github.com/RonilsonRDG/Be-The-Hero/blob/master/Imagens/Profile_Ong.jpg" width="1024" height="473">
+<img src="https://github.com/RonilsonRDG/Be-The-Hero/blob/master/Imagens/Profile_Ong2.jpg" width="1024" height="473">
 <br><br>
 <text>Tela de Cadastro de Casos - Página Web para cadastro de ONG's e casos</text>
 <img src="https://github.com/RonilsonRDG/Be-The-Hero/blob/master/Imagens/tela_cadastro_caso.jpg" width="1024" height="473">
