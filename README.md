@@ -1,18 +1,13 @@
 # Be-The-Hero
-Aplicação Criada com intuito de facilitar a doação para ONGS cadastradas. FrontEnd, BackEnd e Mobile.
 
-<a href="https://mega.nz/#!WlxCHAZD!Ic6pQmOgAgnuloBmnAwj2FHEB_i_4AX1OeO--dMpP_E">Download do apk para Android</a>
+Application created in order to facilitate donation to registered NGOs. FrontEnd, BackEnd and Mobile.
 
-O projeto foi desenvolvido na 11º Semana Omnistack ministrado pela Rocketseat no 1º semestre de 2019.
+<a href="https://mega.nz/#!WlxCHAZD!Ic6pQmOgAgnuloBmnAwj2FHEB_i_4AX1OeO--dMpP_E"> Download the apk for Android </a>
 
-Linguagens Utilizadas:
-
-NodeJs
-ReactJs
-React Native
+The project was developed in the 11th Omnistack Week given by Rocketseat in the 1st semester of 2019.
 
 <ul>
-<h3>Tecnologias e ferramentas envolvidas no projeto:</h3>
+<h3>Technologies and tools involved in the project:</h3>
 <li>Node.js</li>
 <li>ReactJs</li>
 <li>React Native</li>
@@ -27,20 +22,20 @@ React Native
 <li>Supertest</li>
 </ul>
 
-<h3>Confira imagens do projeto:</h3>
+<h3>Check images of the project:</h3>
 
 <View>
-<text>Tela de Login - Página Web para cadastro de ONG's e casos</text>
-<img src="https://github.com/RonilsonRDG/Be-The-Hero/blob/master/Imagens/tela_de_login.jpg" width="1024" height="473">
-<br><br>
-<text>Tela de Cadastro de ONGS - Página Web para cadastro de ONG's e casos</text>
-<img src="https://github.com/RonilsonRDG/Be-The-Hero/blob/master/Imagens/tela_cadastro_ongs.jpg" width="1024" height="473">
-<br><br>
-<text>Tela de Perfil de ONGS - Página Web para cadastro de ONG's e casos</text>
-<img src="https://github.com/RonilsonRDG/Be-The-Hero/blob/master/Imagens/Profile_Ong2.jpg" width="1024" height="473">
-<br><br>
-<text>Tela de Cadastro de Casos - Página Web para cadastro de ONG's e casos</text>
-<img src="https://github.com/RonilsonRDG/Be-The-Hero/blob/master/Imagens/tela_cadastro_caso.jpg" width="1024" height="473">
+<text> Login Screen - Web page for registering NGOs and cases </text>
+<img src = "https://github.com/RonilsonRDG/Be-The-Hero/blob/master/Images/tela_de_login.jpg" width = "1024" height = "473">
+<br> <br>
+<text> NGOs Registration Screen - Web page for registration of NGOs and cases </text>
+<img src = "https://github.com/RonilsonRDG/Be-The-Hero/blob/master/Images/tela_cadastro_ongs.jpg" width = "1024" height = "473">
+<br> <br>
+<text> NGOs Profile Screen - Web page to register NGOs and cases </text>
+<img src = "https://github.com/RonilsonRDG/Be-The-Hero/blob/master/Images/Profile_Ong2.jpg" width = "1024" height = "473">
+<br> <br>
+<text> Case Registration Screen - Web page for registering NGOs and cases </text>
+<img src = "https://github.com/RonilsonRDG/Be-The-Hero/blob/master/Images/tela_cadastro_caso.jpg" width = "1024" height = "473">
 <br><br>
 </view>
 
