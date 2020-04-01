@@ -1,13 +1,13 @@
 # Be-The-Hero
 
-Application created in order to facilitate donation to registered NGOs. FrontEnd, BackEnd and Mobile.
+Aplicativo criado para facilitar a doação a ONGs registradas. FrontEnd, BackEnd e Mobile.
 
-<a href="https://mega.nz/#!WlxCHAZD!Ic6pQmOgAgnuloBmnAwj2FHEB_i_4AX1OeO--dMpP_E"> Download the apk for Android </a>
+<a href="https://mega.nz/#!WlxCHAZD!Ic6pQmOgAgnuloBmnAwj2FHEB_i_4AX1OeO--dMpP_E"> Faça o download do apk para Android </a>
 
-The project was developed in the 11th Omnistack Week given by Rocketseat in the 1st semester of 2019.
+O aplicativo foi desenvolvido na 11ª Semana Omnistack, realizada pela Rocketseat no 1º semestre de 2020.
 
 <ul>
-<h3>Technologies and tools involved in the project:</h3>
+<h3>Tecnologias e ferramentas envolvidas no projeto:</h3>
 <li>Node.js</li>
 <li>ReactJs</li>
 <li>React Native</li>
@@ -22,19 +22,19 @@ The project was developed in the 11th Omnistack Week given by Rocketseat in the 
 <li>Supertest</li>
 </ul>
 
-<h3>Check images of the project:</h3>
+<h3> Confira imagens do projeto: </h3>
 
 <View>
-<text> Login Screen - Web page for registering NGOs and cases </text>
+<text> Tela de login - página da Web para registrar ONGs e casos </text>
 <img src = "https://github.com/RonilsonRDG/Be-The-Hero/blob/master/Imagens/tela_de_login.jpg" width = "1024" height = "473">
 <br> <br>
-<text> NGOs Registration Screen - Web page for registration of NGOs and cases </text>
+<text> Tela de registro de ONGs - página da Web para registro de ONGs e casos </text>
 <img src = "https://github.com/RonilsonRDG/Be-The-Hero/blob/master/Imagens/tela_cadastro_ongs.jpg" width = "1024" height = "473">
 <br> <br>
-<text> NGOs Profile Screen - Web page to register NGOs and cases </text>
+<text> Tela de perfil de ONGs - página da Web para registrar ONGs e casos </text>
 <img src = "https://github.com/RonilsonRDG/Be-The-Hero/blob/master/Imagens/Profile_Ong2.jpg" width = "1024" height = "473">
 <br> <br>
-<text> Case Registration Screen - Web page for registering NGOs and cases </text>
+<text> Tela de registro de casos - página da Web para registrar ONGs e casos </text>
 <img src = "https://github.com/RonilsonRDG/Be-The-Hero/blob/master/Imagens/tela_cadastro_caso.jpg" width = "1024" height = "473">
 <br><br>
 </view>
