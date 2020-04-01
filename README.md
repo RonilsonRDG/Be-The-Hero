@@ -32,10 +32,10 @@ The project was developed in the 11th Omnistack Week given by Rocketseat in the 
 <img src = "https://github.com/RonilsonRDG/Be-The-Hero/blob/master/Imagens/tela_cadastro_ongs.jpg" width = "1024" height = "473">
 <br> <br>
 <text> NGOs Profile Screen - Web page to register NGOs and cases </text>
-<img src = "https://github.com/RonilsonRDG/Be-The-Hero/blob/master/imagens/Profile_Ong2.jpg" width = "1024" height = "473">
+<img src = "https://github.com/RonilsonRDG/Be-The-Hero/blob/master/Imagens/Profile_Ong2.jpg" width = "1024" height = "473">
 <br> <br>
 <text> Case Registration Screen - Web page for registering NGOs and cases </text>
-<img src = "https://github.com/RonilsonRDG/Be-The-Hero/blob/master/imagens/tela_cadastro_caso.jpg" width = "1024" height = "473">
+<img src = "https://github.com/RonilsonRDG/Be-The-Hero/blob/master/Imagens/tela_cadastro_caso.jpg" width = "1024" height = "473">
 <br><br>
 </view>
 
