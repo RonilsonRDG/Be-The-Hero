@@ -24,7 +24,7 @@ O aplicativo foi desenvolvido na 11ª Semana Omnistack, realizada pela Rocketsea
 
 <h3> Confira imagens do projeto: </h3>
 
-<View>
+<View color="#000">
 <text> Tela de login - página da Web para registrar ONGs e casos </text>
 <img src = "https://github.com/RonilsonRDG/Be-The-Hero/blob/master/Imagens/tela_de_login.jpg" width = "1024" height = "473">
 <br> <br>
