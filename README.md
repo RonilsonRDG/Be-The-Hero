@@ -2,8 +2,6 @@
 
 Aplicativo criado para facilitar a doação a ONGs registradas. FrontEnd, BackEnd e Mobile.
 
-<a href="https://mega.nz/#!WlxCHAZD!Ic6pQmOgAgnuloBmnAwj2FHEB_i_4AX1OeO--dMpP_E"> Faça o download do apk para Android </a>
-
 O aplicativo foi desenvolvido na 11ª Semana Omnistack, realizada pela Rocketseat no 1º semestre de 2020.
 
 <ul>
