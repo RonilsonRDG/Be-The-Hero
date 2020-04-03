@@ -37,7 +37,7 @@ O aplicativo foi desenvolvido na 11ª Semana Omnistack, realizada pela Rocketsea
 <br><br>
 <br><br>
 <br>
-<text> Tela de registro de casos - página da Web para registrar ONGs e casos </text>
+<text> Funcionamento Mobile </text>
 <img src = "https://github.com/RonilsonRDG/Be-The-Hero/blob/master/Imagens/GIF-200402_234047.gif">
 <br><br>
 </view>
